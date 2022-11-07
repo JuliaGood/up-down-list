@@ -1,0 +1,25 @@
+li {
+  background: blue;
+  margin-bottom: 10px;
+  color: #fff;
+  padding: 5px;
+  margin: 0;
+  margin-bottom: 5px;
+  font-size: 18px;
+  max-width: 250px;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  margin-top: 20px;
+}
+
+.up,
+.down,
+.remove {
+  margin-left: 5px;
+  font-size: 12px;
+  padding-left: 3px;
+  cursor: pointer;
+}
